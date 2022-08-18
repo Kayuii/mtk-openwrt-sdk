@@ -29,3 +29,4 @@ git-src
 .p4cache/
 package/boot/uboot-ramips
 .DS_Store
+linux-*.tar.xz
