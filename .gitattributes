@@ -1,1 +1,4 @@
 * -text
+dl/linux-3.10.14-144992.tar.xz filter=lfs diff=lfs merge=lfs -text
+dl/linux-3.10.14-169495.tar.xz filter=lfs diff=lfs merge=lfs -text
+dl/linux-3.10.20-148655.tar.xz filter=lfs diff=lfs merge=lfs -text
